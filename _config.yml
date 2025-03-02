@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Shiwen Hou Portfolio Website"
 title_separator          : "-"
 name                     : &name "Shiwen Hou"
-description              : &description "personal description"
+description              : &description "Graduated Master Student in Software Engineering"
 url                      : "https://ch-030.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ch-030/my-portfolio-site/"
+repository               : "ch-030.github.io/my-portfolio-site/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
