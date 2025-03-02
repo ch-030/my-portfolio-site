@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+I'm a third year undergraduate student from [School of EECS](https://eecs.pku .edu.cn/), [Peking
+Universityl(https://www.pku.edu.cn/). My research interest includes computer vision E, computer
+graphics, machine learning, and computational photography.
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Laba from [School
+of Computer Sciencel(https:/ics.pku.edu.cn/), Peking University. l was advised by [Prof. XX
+(https://XXX,pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking
+University.
+You can find my CV here. [XX's Curriculum Vitae](../assets /Curriculum Vitae.pdf).
+[Email(mailto:XX@stu.pkuedu.cn)/[Github](https://github.com/QiuDi233)/ [Wechat
+(../images区/wechatjpg)/[CSDN](https://blog.csdn.netgd1813100174?
+spm=1000.2115.3001.5343)
 
 Hello! I'm a recent graduate with a Master of Science in Software Engineering from the University of St. Thomas. I have a strong background in full-stack web development, with hands-on experience in technologies like Next.js, React, Angular, and Spring Boot. 
 
