@@ -13,9 +13,9 @@ Hello! I'm a recent graduate with a Master of Science in Software Engineering fr
 
 I am passionate about creating user-centric applications and improving the performance and accessibility of web platforms. Currently, I am actively seeking a role in the tech industry where I can leverage my skills in software development, problem-solving, and teamwork to contribute to impactful projects.
 
-You can find my CV here. [XX's Curriculum Vitae](../assets /Curriculum Vitae.pdf).
-[Email(mailto:XX@stu.pkuedu.cn)/[Github](https://github.com/QiuDi233)/ [Wechat
-(../images区/wechatjpg)/[CSDN](https://blog.csdn.netgd1813100174?
-spm=1000.2115.3001.5343)
+You can find my CV here. [Shiwen Hou's Curriculum Vitae](../assets /Curriculum Vitae.pdf).
+
+[Email](mailto:cloris479@gmail.com)/[Github](https://github.com/ch-030)/ [Wechat]
+(../images /wechat.jpg)
 
 Feel free to explore my projects and contact me if you'd like to connect!
