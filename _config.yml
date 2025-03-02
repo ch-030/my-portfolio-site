@@ -22,7 +22,7 @@ repository               : "ch-030.github.io/my-portfolio-site/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Shiwen Hou (Cloris)"
   pronouns         : "she/her/hers"  
   bio              : "Short biography for the left-hand sidebar"
