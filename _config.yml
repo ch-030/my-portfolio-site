@@ -13,7 +13,7 @@ title                    : "Shiwen Hou Portfolio Website"
 title_separator          : "-"
 name                     : &name "Shiwen Hou"
 description              : &description "Graduated Master Student in Software Engineering"
-url                      : "https://ch-030.github.io"
+url                      : "https://ch-030.github.io/my-portfolio-site/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ch-030.github.io/my-portfolio-site/"
 
