@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Shiwen Hou Portfolio Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shiwen Hou"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://ch-030.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ch-030/my-portfolio-site/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Shiwen Hou (Cloris)"
+  pronouns         : "she/her/hers"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Minneapolis, MN"
+  school           : "University of St. Thomas"
+  LinkedIn uri     : "https://www.linkedin.com/in/shiwen-h/"
+  email            : "cloris479@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
